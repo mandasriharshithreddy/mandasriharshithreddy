@@ -1,16 +1,16 @@
-## Hi there 👋
+ # **Hi there 👋 I'm Manda Sriharshith Reddy**
 
-<!--
-**mandasriharshithreddy/mandasriharshithreddy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## **🚀 About Me**
 
-Here are some ideas to get you started:
+I'm an aspiring Full-Stack Engineer passionate about building modern web applications.
+I enjoy solving real-world problems through clean and efficient code.
+Currently exploring AI/ML, Data Analytics, and scalable software development.
+Always learning, building, and improving with every project.
+Open to opportunities, collaboration, and continuous growth.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 🔭 I’m currently working on : Developing websites with scalability
+- 🌱 I’m currently learning : Machine learning and AI Agents
+- 👯 I’m looking to collaborate on : Any AI related projectes i am intrested to work upon
+- 💬 Ask me about : Technology and Skill enhancement
+- 📫 How to reach me : mandasriharshithreddy@gmail.com
