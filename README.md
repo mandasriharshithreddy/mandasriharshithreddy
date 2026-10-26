@@ -2,14 +2,14 @@
 
 ## **🚀 About Me**
 
-Computer Science graduate seeking opportunities in software development and data engineering.
-I build full-stack applications using React, Node.js, and MongoDB.
+Computer Science graduate seeking opportunities in AI engineering and software development.
+Proficient in AI Agents, Retrieval-Augmented Generation (RAG), Machine Learning, and Deep Learning. 
 I work with Python and SQL on data projects and pipelines.
-I’ve also explored machine learning and AI through hands-on projects.
-Currently strengthening my skills in data engineering and RAG.
+Experienced in building full-stack applications using React, Node.js, and MongoDB, with strong foundations in Python and SQL.
+Passionate about building intelligent AI-powered applications and continuously exploring Generative AI and agentic systems.
 
 
-- 💻 I’m currently working on : Developing websites with scalability
+- 💻 I’m currently working on : Building AI Agents, RAG and AI Applications.
 - ⚡ I’m currently learning : Machine learning, AI Agents and RAG
 - 👯 I’m looking to collaborate on : Any AI related projects i am intrested to work upon
 - 💬 Ask me about : Technology and Skill enhancement
